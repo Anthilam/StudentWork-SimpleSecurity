@@ -10,7 +10,7 @@ Code samples of cryptographic algorithms : Caesar, Vigenere and substitution.
 
 ### Note on break programs
 
-These programs has been created with the __*french*__ language in mind, it will not, or give weird results in other langages.
+These programs have been created with the __*french*__ language in mind, it will not, or give weird results in other langages.
 
 ## Build
 
